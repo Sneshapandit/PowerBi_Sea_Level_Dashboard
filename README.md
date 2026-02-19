@@ -18,3 +18,5 @@ Global sea level dataset (source: Our World in Data / Kaggle)
 
 ## 🚀 Insights
 The dashboard highlights long-term upward trends and acceleration patterns in sea level rise.
+
+![Dashboard Preview](dashboard.png)
